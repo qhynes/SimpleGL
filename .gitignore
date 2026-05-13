@@ -1,0 +1,22 @@
+# Build folders
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# CMake generated
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
